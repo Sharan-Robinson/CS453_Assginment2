@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zoo Directory</string>
+
+
+    <string-array name="animal_names">
+        <item>Lion</item>
+        <item>Eagle</item>
+        <item>Hawk</item>
+        <item>Rhino</item>
+        <item>Tiger</item>
+    </string-array>
+
+
+    <string-array name="animal_desc">
+        <item>The lion is a large, muscular cat with a short, tawny coat, a tufted tail, and, in males, a distinctive mane. Known as the "king of the jungle," lions live in prides and are found primarily in Africa.</item>
+        <item>The eagle is a powerful bird of prey with keen eyesight, a hooked beak, and strong talons. Eagles are known for their majestic flight and are found in various habitats around the world, including mountains and coastal regions.</item>
+        <item>The hawk is a medium-sized bird of prey known for its sharp vision and powerful flight. Hawks have broad wings and long tails, and they inhabit a wide range of environments, from forests to open plains.</item>
+        <item>The rhino, short for rhinoceros, is a large, thick-skinned herbivore known for its impressive horn(s) on its snout. Rhinos are found in Africa and Asia and are often characterized by their massive bodies and protective demeanor.</item>
+        <item>The tiger is a large, solitary cat with a striking orange coat and black stripes. Tigers are apex predators found primarily in Asia\'s forests and grasslands, known for their strength, stealth, and powerful hunting abilities.</item>
+    </string-array>
+
+
+</resources>
